@@ -1,0 +1,3 @@
+/cygdrive/d/CLionProjects/word_book/cmake-build-debug/CMakeFiles/word_book.dir
+/cygdrive/d/CLionProjects/word_book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/CLionProjects/word_book/cmake-build-debug/CMakeFiles/rebuild_cache.dir

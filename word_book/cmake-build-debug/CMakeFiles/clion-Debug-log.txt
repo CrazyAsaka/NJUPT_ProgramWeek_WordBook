@@ -1,0 +1,4 @@
+C:\Users\Asaka\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/d/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S /cygdrive/d/CLionProjects/word_book -B /cygdrive/d/CLionProjects/word_book/cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /cygdrive/d/CLionProjects/word_book/cmake-build-debug
